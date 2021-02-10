@@ -19,5 +19,5 @@ The data folder must have all the data in it and the zip files already unzipped 
 If you face some paths errors, you shoul modify the `config.py` file to match your own configuration (especially the paths)
 
 # Usage
-First run ne `eda.ipynb` in the `notebooks` folder to generate the train & test .csv files (`train_sampled.csv` and `test_sampled.csv`).
+First run the `eda.ipynb` in the `notebooks` folder to generate the train & test .csv files (`train_sampled.csv` and `test_sampled.csv`).
 Then run tne `train.ipynb` in the `notebooks` folder that generates the submission file into the submissions directory.
