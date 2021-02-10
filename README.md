@@ -21,3 +21,6 @@ If you face some paths errors, you shoul modify the `config.py` file to match yo
 # Usage
 First run the `eda.ipynb` in the `notebooks` folder to generate the train & test .csv files (`train_sampled.csv` and `test_sampled.csv`).
 Then run tne `train.ipynb` in the `notebooks` folder that generates the submission file into the submissions directory.
+
+# PS
+If you want to run it on Google colab, you have a `colab_train.ipynb` for that. You only need to upload all the data to google drive (you do not need to unzip the image arrays). 
