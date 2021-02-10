@@ -9,7 +9,7 @@ The project tree shoul look like
 
 |-data/\
 |-models/\
-|-notebooks/\
+|-notebooks/
 |-submissions/
 
 The data folder must have all the data in it and the zip files already unzipped in it.
@@ -20,4 +20,4 @@ If you face some paths errors, you shoul modify the `config.py` file to match yo
 
 # Usage
 
-Run tne train.ipynb notebook that generates the submission file into the submissions directory.
+Run tne `train.ipynb` in the `notebooks` folder notebook that generates the submission file into the submissions directory.
